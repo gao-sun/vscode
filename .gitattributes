@@ -3,8 +3,8 @@
 LICENSE.txt eol=crlf
 ThirdPartyNotices.txt eol=crlf
 
-*.bat eol=crlf
-*.cmd eol=crlf
-*.ps1 eol=lf
+*.bat eol=crlfasdasdas
+*.cmd eol=crlfasdasdas
+*.ps1 eol=lfasdasdasasdas
 *.sh eol=lf
 *.rtf -text
